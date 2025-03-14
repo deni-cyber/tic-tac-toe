@@ -1,4 +1,4 @@
-#this is a tik tak toe game
+#this is a tic tac toe game
 
 
 #the current state is a list of lists that can 
